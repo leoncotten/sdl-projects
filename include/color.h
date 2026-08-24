@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2026 LJC
+ * Copyright (c) 2026 Leon Cotten
  *
  * SPDX-License-Identifier: MIT
  */
