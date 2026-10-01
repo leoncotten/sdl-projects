@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2026 Leon Cotten
  *
- * SPDX-License-Identifier: MIT
+ * SPDX-License-Identifier: GPL-2.0-or-later
  */
 
 #ifndef COLOR_H_
